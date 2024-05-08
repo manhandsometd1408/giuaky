@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850633127775",
+    "project_id": "lababc-4a0e5",
+    "storage_bucket": "lababc-4a0e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850633127775:android:b9281ceff08ca8f5a7e8ea",
+        "android_client_info": {
+          "package_name": "com.baiktgk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3_Gj_bc2zckXmC1bQP3_5J30yLvTHCfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
